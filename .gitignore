@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5ad
+*.npz
+*.gef
+*.genes.out
+*.genes.raw
+out/
+logs/
+_internal/
